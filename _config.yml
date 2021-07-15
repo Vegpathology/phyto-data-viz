@@ -9,7 +9,7 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Visualization for Plant Pathologis
+title:            Data Visualization for Plant Pathologist
 description:      'Teaching plant pathologists data visualization tools to show off their awesome science'
 url:              http://Vegpathology.github.io/phyto-data-viz/
 baseurl:          /phyto-data-viz
