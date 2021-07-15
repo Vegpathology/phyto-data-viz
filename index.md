@@ -2,9 +2,9 @@
 layout: default
 ---
 
-An introduction to working with data for biologists including: data structure, data manipulation, visualization, basic programming, and databases.
-Designed to be used as a flipped university course and also for self-guided
-students.
+Colloquium is a required course – all graduate students in the department of plant pathology are required to take a minimum of four semesters per degree. 
+Colloquium class topics change each semester per the direction of the instructors. This semester, the topic is data visualization. 
+We will discuss what we mean by data visualization, what our goals as scientists are and should be, what tools are available to present/visualize your data, and how to critique/evaluate presented data. 
 
 For Students
 : <a href="{{ site.baseurl}}/syllabus">
