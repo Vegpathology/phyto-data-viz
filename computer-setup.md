@@ -3,7 +3,7 @@ layout: page
 title: Computer Setup
 ---
 
-***WIS 6934 students will need their own laptops set up with R by week 2, Git by week 10, and SQL by week 13.***
+***Students will need their own laptops set up with R by week 3. We recommend also setting up Git by week 3 as well, but it is not required.***
 
 ### R
 
@@ -108,9 +108,10 @@ Git is probably already installed. If it is not already available install it via
 your distro's package manager. For Debian/Ubuntu run `sudo apt-get install git`
 and for Fedora run `sudo yum install git`.
 
+***Optional software information***
 ### SQL
 
-Download and install [DB Browser for SQLite](http://sqlitebrowser.org/)
+*SQL installation is not required fo rthis course. However, SQL is used in the Data Carpentery Course linked to this one. SQDownload and install [DB Browser for SQLite](http://sqlitebrowser.org/)
 
 ### Python
 
@@ -119,4 +120,4 @@ are no longer under active development.*
 
 Download and install the
 [Anaconda Scientific Python Distribution](http://continuum.io/downloads).
-I recommend you use a special editor like the [Wing Intelligent Development Environment - 101](http://wingware.com/downloads/wingide-101).
+It is recommended to use that a special editor like the [Wing Intelligent Development Environment - 101](http://wingware.com/downloads/wingide-101).
