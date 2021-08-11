@@ -108,6 +108,7 @@ Git is probably already installed. If it is not already available install it via
 your distro's package manager. For Debian/Ubuntu run `sudo apt-get install git`
 and for Fedora run `sudo yum install git`.
 
+
 ***Optional software information***
 ### SQL
 
